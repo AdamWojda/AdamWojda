@@ -1,6 +1,8 @@
 ## Hi there👋, nice to see you here 😊
 
-This Github will let you see online versions and go through code of my Portfolio projects, you can find here few things
+My main website is boostit.services - it's currently under remodeling so fewq things my change.
+
+This Github will let you see online versions and go through code of my portfolio projects:
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
