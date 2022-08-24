@@ -1,6 +1,6 @@
 ## Hi there👋, nice to see you here 😊
 
-My main website is boostit.services - it's currently under remodeling so fewq things my change.
+My main website is boostit.services - it's currently under remodeling so few things my change.
 
 This Github will let you see online versions and go through code of my portfolio projects:
 
