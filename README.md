@@ -16,7 +16,7 @@ This Github will let you see online versions and go through code of my portfolio
 
 2️⃣. On below links you can find more new liblaries and methods of work with frameworks like React (Hooks), Vue (Composition API) or Angular.
 
-- https://adamwojda.github.io/React-Listing-App
+- <a href="https://adamwojda.github.io/React-Listing-App" target="_blank">https://adamwojda.github.io/React-Listing-App</a>
 - https://github.com/AdamWojda/react-native-app
 - https://adamwojda.github.io/vue-project-0
 
