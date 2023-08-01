@@ -1,6 +1,8 @@
 ## Hi there👋, nice to see you here 😊
 
-My main website is boostit.services - it's currently under remodeling so few things my change.
+If you want to see what I can do go to <a href="https://boostit.services" target="_blank">https://boostit.services</a> - this is my website, something like a portfolio, something like a services page.
+
+If you want to read more about what people say when working with me, feel free to visit <a href="https://boostit.services/reviews" target="_blank">https://boostit.services/reviews</a>
 
 This Github will let you see online versions and go through code of my portfolio projects:
 
