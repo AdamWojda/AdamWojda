@@ -1,6 +1,6 @@
 ## Hi there👋, nice to see you here 😊
 
-I started web dev when nobody thought about becoming a developer, when we still were using floats and clearfixes, and IE6 non-existing support for PNGs was a no-go for some projects.
+I started web dev when nobody thought about becoming a developer 👴, when we still were using floats and clearfixes, and IE6 non-existing support for PNGs was a no-go for some projects.
 
 In today's world, I have rich experience with JavaScript, TypesScript, Vue, React, and NextJS but also with backend languages like PHP, NodeJs, and Jest, WordPress is a no stranger for me, usually creating templates with ACF and Gutenberg. 
 
